@@ -112,6 +112,10 @@
 
 ###
 
+<h2 align="left">🏆 GitHub Trophies:</h2>
+
+###
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=marwenjaballah&theme=darkhub" height="150" alt="trophy graph"  />
 </div>
