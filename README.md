@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Marwen Jaballah</h1>
-<h3 align="center">💫 I'm a passionate developer with experience in both web development and game development. I love building dynamic applications and creating immersive gaming experiences. Whether it's crafting smooth user interfaces or developing complex game mechanics, I enjoy solving real-world problems with code. Always learning, always coding. 🚀</h3>
+<h1>Hi 👋, I'm Marwen Jaballah</h1>
+<h3>💫 I'm a passionate developer with experience in both web development and game development. I love building dynamic applications and creating immersive gaming experiences. Whether it's crafting smooth user interfaces or developing complex game mechanics, I enjoy solving real-world problems with code. Always learning, always coding. 🚀</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
