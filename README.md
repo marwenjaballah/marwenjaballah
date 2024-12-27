@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💫 I'm a passionate developer with experience in both web development and game development. I love building dynamic applications and creating immersive gaming experiences. Whether it's crafting smooth user interfaces or developing complex game mechanics, I enjoy solving real-world problems with code. Always learning, always coding. 🚀</p>
+<p align="left">💫 I'm a passionate developer with experience in web development, game development, and recently, Web3 and blockchain technologies. I love building dynamic applications, creating immersive gaming experiences, and exploring decentralized solutions. Whether it's crafting smooth user interfaces, developing complex game mechanics, or diving into blockchain innovation, I enjoy solving real-world problems with code. Always learning, always coding. 🚀</p>
 
 ###
 
@@ -13,7 +13,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" href="https://www.linkedin.com/in/marwen-jaballah/" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
